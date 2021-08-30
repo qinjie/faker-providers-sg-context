@@ -2,7 +2,7 @@
 
 
 
-This project implements a few Providers for [Faker](https://github.com/joke2k/faker) Python package.
+This project implements a few SG-related Providers for [Faker](https://github.com/joke2k/faker) Python package.
 
 List of Providers:
 
