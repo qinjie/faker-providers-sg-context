@@ -49,11 +49,11 @@ fake.sg_nric(categories=['S', 'T', 'F', 'G', 'M'], count=5, min_age=0, max_age=1
 Sample Data
 
 ```json
-[{'birthday': '2021-03-28', 'nric': 'M7577745J'},
- {'birthday': '2012-10-10', 'nric': 'T1264033A'},
- {'birthday': '2005-03-19', 'nric': 'T0571172Z'},
- {'birthday': '1939-11-25', 'nric': 'S2992344B'},
- {'birthday': '1953-03-04', 'nric': 'S1354649E'}]
+[{"birthday": "2021-03-28", "nric": "M7577745J"},
+ {"birthday": "2012-10-10", "nric": "T1264033A"},
+ {"birthday": "2005-03-19", "nric": "T0571172Z"},
+ {"birthday": "1939-11-25", "nric": "S2992344B"},
+ {"birthday": "1953-03-04", "nric": "S1354649E"}]
 ```
 
 
