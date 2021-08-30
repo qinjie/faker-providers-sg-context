@@ -87,16 +87,16 @@ Parameter(s):
 Sample Data
 
 ```json
-[{'postal': '787916',
-  'latitude': '1.397338704',
-  'longtitude': '103.8204766',
-  'blk_no': '10',
-  'road_name': 'SPRINGLEAF VIEW'},
- {'postal': '821107',
-  'latitude': '1.397198794',
-  'longtitude': '103.9068258',
-  'blk_no': '107A',
-  'road_name': 'EDGEFIELD PLAINS'}]
+[{"postal": "787916",
+  "latitude": "1.397338704",
+  "longtitude": "103.8204766",
+  "blk_no": "10",
+  "road_name": "SPRINGLEAF VIEW"},
+ {"postal": "821107",
+  "latitude": "1.397198794",
+  "longtitude": "103.9068258",
+  "blk_no": "107A",
+  "road_name": "EDGEFIELD PLAINS"}]
 ```
 
 
